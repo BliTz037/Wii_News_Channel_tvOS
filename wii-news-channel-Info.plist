@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>FOT_NewRodin_Pro_M.otf</string>
+		<string>FOT_NewRodin_Pro_UB.otf</string>
+		<string>FOT_NewRodin_Pro_L.otf</string>
+		<string>FOT_NewRodin_Pro_EB.otf</string>
+		<string>FOT_NewRodin_Pro_DB.otf</string>
+		<string>RodinNTLG_Pro_DB.otf</string>
+		<string>RodinNTLG_Pro_EB.otf</string>
+		<string>RodinNTLG_Pro_L.otf</string>
+		<string>RodinNTLG_Pro_M.otf</string>
+		<string>RodinNTLG_Pro_UB.otf</string>
+	</array>
+</dict>
+</plist>
